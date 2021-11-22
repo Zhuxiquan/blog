@@ -23,7 +23,7 @@
   
 
   
-<link rel="stylesheet" href="/blog/css/style.css">
+<link rel="stylesheet" href="/css/style.css">
 
 
   
@@ -198,14 +198,14 @@
             <h3 class="archive-year">2021 年</h3>
           
           <div class="archive-item">
-            <a class="archive-date" href="/blog/2021/10/15/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/">十月 15</a>
-            <a class="archive-title" href="/blog/2021/10/15/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/">网站收集</a>
+            <a class="archive-date" href="/2021/10/15/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/">十月 15</a>
+            <a class="archive-title" href="/2021/10/15/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/">网站收集</a>
           </div>
         
           
           <div class="archive-item">
-            <a class="archive-date" href="/blog/2021/10/14/hello-world/">十月 14</a>
-            <a class="archive-title" href="/blog/2021/10/14/hello-world/">Hello World</a>
+            <a class="archive-date" href="/2021/10/14/hello-world/">十月 14</a>
+            <a class="archive-title" href="/2021/10/14/hello-world/">Hello World</a>
           </div>
         
       </div>
@@ -269,7 +269,7 @@
   
   
     
-<script src="/blog/js/color-mode.js"></script>
+<script src="/js/color-mode.js"></script>
 
   
   
@@ -301,8 +301,8 @@
 
 
 
-<script src="/blog/js/utils.js"></script>
-<script src="/blog/js/script.js"></script>
+<script src="/js/utils.js"></script>
+<script src="/js/script.js"></script>
 
 
 
@@ -330,7 +330,7 @@
     }
 
     const addCount = (Counter) => {
-      const url = $(".leancloud-counter").length === 1 ? $(".leancloud-counter").attr('id').trim() : 'https://zhuxiquan.github.io/blog';
+      const url = $(".leancloud-counter").length === 1 ? $(".leancloud-counter").attr('id').trim() : 'http://120.76.247.177';
       var query = new Counter;
       query.save({
         words: url
@@ -349,7 +349,7 @@
     }
 
     const addLike = (Like) => {
-      const url = $(".leancloud-like").length === 1 ? $(".leancloud-like").attr('id').trim() : 'https://zhuxiquan.github.io/blog';
+      const url = $(".leancloud-like").length === 1 ? $(".leancloud-like").attr('id').trim() : 'http://120.76.247.177';
       var query = new Like;
       query.save({
         path: url,
