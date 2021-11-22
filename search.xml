@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/10/14/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>网站收集</title>
+    <url>/2021/10/15/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<h3 id="第一类-文件处理网站"><a href="#第一类-文件处理网站" class="headerlink" title="第一类 文件处理网站"></a>第一类 文件处理网站</h3><p>1、ILOVEPDF <a href="https://www.ilovepdf.com/">https://www.ilovepdf.com/</a><br>2、ALL TO ALL <a href="https://www.alltoall.net/">https://www.alltoall.net/</a><br>3、cloudconvert  <a href="https://cloudconvert.com/">https://cloudconvert.com/</a><br>4、Convertio <a href="https://convertio.co/zh/">https://convertio.co/zh/</a></p>
+<h3 id="第二类-图片处理网站"><a href="#第二类-图片处理网站" class="headerlink" title="第二类 图片处理网站"></a>第二类 图片处理网站</h3><p>1 IMAGE CYBORG  <a href="https://imagecyborg.com/">https://imagecyborg.com/</a><br>2、bigjpg <a href="https://bigjpg.com/">https://bigjpg.com/</a><br>3、tiny png <a href="https://tinypng.com/">https://tinypng.com/</a><br>4、Squoosh  <a href="https://squoosh.app/">https://squoosh.app/</a><br>5、Recompressor  <a href="https://recompressor.com/">https://recompressor.com/</a><br>7、Yandex <a href="https://yandex.com/images/">https://yandex.com/images/</a><br>8、bgeraser <a href="https://bgeraser.com/">https://bgeraser.com/</a><br>9、removebg <a href="https://www.remove.bg/">https://www.remove.bg/</a><br>10、稿定抠图 <a href="https://koutu.gaoding.com/">https://koutu.gaoding.com/</a><br>11、顽兔抠图 <a href="https://alidesign.taobao.com/work.htm#">https://alidesign.taobao.com/work.htm#</a><br>12、ILOVEIMG <a href="https://www.iloveimg.com/">https://www.iloveimg.com/</a></p>
+<h3 id="第三类-文字处理网站"><a href="#第三类-文字处理网站" class="headerlink" title="第三类 文字处理网站"></a>第三类 文字处理网站</h3><p>1、OCRSpace  <a href="https://ocr.space/">https://ocr.space/</a><br>2、白描 <a href="https://web.baimiaoapp.com/">https://web.baimiaoapp.com/</a><br>3、全能扫描王 <a href="https://www.camscanner.com/">https://www.camscanner.com/</a><br>4、OCRMaker  <a href="http://www.ocrmaker.com/">http://www.ocrmaker.com/</a><br>5、网易见外工作台 <a href="https://jianwai.youdao.com/">https://jianwai.youdao.com/</a></p>
+<h3 id="第四类-综合工具网站"><a href="#第四类-综合工具网站" class="headerlink" title="第四类 综合工具网站"></a>第四类 综合工具网站</h3><p>1、在线工具 <a href="https://www.zxgj.cn/">https://www.zxgj.cn/</a><br>2、一个工具箱 <a href="http://www.atoolbox.net/">http://www.atoolbox.net/</a></p>
+<h3 id="游戏网站："><a href="#游戏网站：" class="headerlink" title="游戏网站："></a>游戏网站：</h3><p><a href="https://dos.zczc.cz/">https://dos.zczc.cz/</a><br><a href="https://www.yikm.net/">https://www.yikm.net/</a><br><a href="https://www.crazygames.com/">https://www.crazygames.com/</a></p>
+<h3 id="myeclipse激活码"><a href="#myeclipse激活码" class="headerlink" title="myeclipse激活码"></a>myeclipse激活码</h3><p><a href="http://www.98key.com/">http://www.98key.com/</a></p>
+<h3 id="几个有趣的网站"><a href="#几个有趣的网站" class="headerlink" title="几个有趣的网站"></a>几个有趣的网站</h3><p><a href="https://www.photomosh.com/">https://www.photomosh.com/</a>  故障效果动图<br><a href="https://www.yikm.net/">https://www.yikm.net/</a>     小霸王其乐无穷<br><a href="https://www.weavesilk.com/">https://www.weavesilk.com/</a>  神经网络绘图<br><a href="https://aidn.jp/">https://aidn.jp/</a><br><a href="https://neave.com/">https://neave.com/</a> 8个互动游戏<br><a href="https://theuselessweb.com/">https://theuselessweb.com/</a> 无用网站跳转<br><a href="https://humanbenchmark.com/">https://humanbenchmark.com/</a>    人类基准测试，反应速度</p>
+<h3 id="一、视频类"><a href="#一、视频类" class="headerlink" title="一、视频类"></a>一、视频类</h3><ol>
+<li>Panzoid：<a href="https://panzoid.com/">https://panzoid.com/</a></li>
+<li>茶杯狐:<a href="https://www.cupfox.com/">https://www.cupfox.com/</a></li>
+<li>33台词：<a href="http://33.agilestudio.cn/">http://33.agilestudio.cn/</a></li>
+<li>HOTBOX:<a href="https://www.hotbox.fun/">https://www.hotbox.fun/</a></li>
+</ol>
+<h3 id="二、图片类"><a href="#二、图片类" class="headerlink" title="二、图片类"></a>二、图片类</h3><ol>
+<li>Pixabay：<a href="https://pixabay.com/">https://pixabay.com/</a> </li>
+<li>Remove.bg：<a href="https://www.remove.bg/">https://www.remove.bg/</a></li>
+<li>P站：<a href="http://www.pixiv.net/">http://www.pixiv.net/</a></li>
+</ol>
+<h3 id="三：音频类"><a href="#三：音频类" class="headerlink" title="三：音频类"></a>三：音频类</h3><ol>
+<li>Moises人工智能分离音乐音轨：<a href="https://moises.ai/">https://moises.ai/</a></li>
+<li>小森平的免费下载音效：<a href="https://taira-komori.jpn.org/freesoundcn.html">https://taira-komori.jpn.org/freesoundcn.html</a></li>
+<li>淘声网： <a href="https://www.tosound.com/">https://www.tosound.com/</a></li>
+</ol>
+<h3 id="四、字体类"><a href="#四、字体类" class="headerlink" title="四、字体类"></a>四、字体类</h3><ol>
+<li>360查字体：<a href="http://fonts.safe.360.cn/">http://fonts.safe.360.cn/</a></li>
+<li>100font：<a href="https://www.100font.com/">https://www.100font.com/</a></li>
+</ol>
+<h3 id="五、实用小工具"><a href="#五、实用小工具" class="headerlink" title="五、实用小工具"></a>五、实用小工具</h3><ol>
+<li>bigjepg：<a href="https://bigjpg.com/">https://bigjpg.com/</a></li>
+<li>Aconvert：<a href="https://www.aconvert.com/cn/">https://www.aconvert.com/cn/</a></li>
+</ol>
+<h3 id="综合网站"><a href="#综合网站" class="headerlink" title="综合网站"></a>综合网站</h3><p><a href="https://xiangjianan.gitee.io/lks/">https://xiangjianan.gitee.io/lks/</a> B站博主 -LKs- 《良心到难以置信的网站推荐》</p>
+]]></content>
+  </entry>
+</search>
