@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/2021/10/14/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>网站收集</title>
-    <url>/2021/10/15/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    <url>/2021/10/15/%E7%BD%91%E7%AB%99%E6%94%B6%E9%9B%86/</url>
     <content><![CDATA[<h3 id="第一类-文件处理网站"><a href="#第一类-文件处理网站" class="headerlink" title="第一类 文件处理网站"></a>第一类 文件处理网站</h3><p>1、ILOVEPDF <a href="https://www.ilovepdf.com/">https://www.ilovepdf.com/</a><br>2、ALL TO ALL <a href="https://www.alltoall.net/">https://www.alltoall.net/</a><br>3、cloudconvert  <a href="https://cloudconvert.com/">https://cloudconvert.com/</a><br>4、Convertio <a href="https://convertio.co/zh/">https://convertio.co/zh/</a></p>
 <h3 id="第二类-图片处理网站"><a href="#第二类-图片处理网站" class="headerlink" title="第二类 图片处理网站"></a>第二类 图片处理网站</h3><p>1 IMAGE CYBORG  <a href="https://imagecyborg.com/">https://imagecyborg.com/</a><br>2、bigjpg <a href="https://bigjpg.com/">https://bigjpg.com/</a><br>3、tiny png <a href="https://tinypng.com/">https://tinypng.com/</a><br>4、Squoosh  <a href="https://squoosh.app/">https://squoosh.app/</a><br>5、Recompressor  <a href="https://recompressor.com/">https://recompressor.com/</a><br>7、Yandex <a href="https://yandex.com/images/">https://yandex.com/images/</a><br>8、bgeraser <a href="https://bgeraser.com/">https://bgeraser.com/</a><br>9、removebg <a href="https://www.remove.bg/">https://www.remove.bg/</a><br>10、稿定抠图 <a href="https://koutu.gaoding.com/">https://koutu.gaoding.com/</a><br>11、顽兔抠图 <a href="https://alidesign.taobao.com/work.htm#">https://alidesign.taobao.com/work.htm#</a><br>12、ILOVEIMG <a href="https://www.iloveimg.com/">https://www.iloveimg.com/</a></p>
 <h3 id="第三类-文字处理网站"><a href="#第三类-文字处理网站" class="headerlink" title="第三类 文字处理网站"></a>第三类 文字处理网站</h3><p>1、OCRSpace  <a href="https://ocr.space/">https://ocr.space/</a><br>2、白描 <a href="https://web.baimiaoapp.com/">https://web.baimiaoapp.com/</a><br>3、全能扫描王 <a href="https://www.camscanner.com/">https://www.camscanner.com/</a><br>4、OCRMaker  <a href="http://www.ocrmaker.com/">http://www.ocrmaker.com/</a><br>5、网易见外工作台 <a href="https://jianwai.youdao.com/">https://jianwai.youdao.com/</a></p>
@@ -42,23 +60,5 @@
       <tags>
         <tag>收藏</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2021/10/14/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
   </entry>
 </search>
